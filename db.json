@@ -4,13 +4,13 @@
 		"id": 1,
 		"title": "Tari",
 		"template": [
-{"0": "<header><h1>Tari<\/h1><\/header>"}
-{"1": "<p>parte 1<\/p>"}
-{"2": "<p>parte 2<\/p>"}
-{"3": "<p>parte 3<\/p>"}
-{"4": "<p>parte 4<\/p>"}
-{"5": "<p>parte 5<\/p>"}
-{"6": "<p>parte 6<\/p>"}
+{"0": "<header><h1>Tari<\/h1><\/header>"},
+{"1": "<p>parte 1<\/p>"},
+{"2": "<p>parte 2<\/p>"},
+{"3": "<p>parte 3<\/p>"},
+{"4": "<p>parte 4<\/p>"},
+{"5": "<p>parte 5<\/p>"},
+{"6": "<p>parte 6<\/p>"},
 {"7": "<footer>© 2020<\/footer>"}
 		]
 	},
@@ -18,9 +18,9 @@
 		"id": 2,
 		"title": "Multa",
 		"template": [
-		{"0": "<header><h1>Tari<\/h1><\/header>"}
-		{"1": "<p>parte 1<\/p>"}
-		{"2": "<p>parte 2<\/p>"}
+		{"0": "<header><h1>Tari<\/h1><\/header>"},
+		{"1": "<p>parte 1<\/p>"},
+		{"2": "<p>parte 2<\/p>"},
 		{"3": "<footer>© 2020<\/footer>"}
 				]
 	}]
