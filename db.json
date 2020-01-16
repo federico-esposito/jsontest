@@ -2,10 +2,22 @@
 	"modelli": [
 	{
 		"id": 1,
-		"title": "Tari"
+		"title": "Tari",
+		"template": {
+			"1": "parte 1",
+			"2": "parte 2",
+			"3": "parte 3",
+			"4": "parte 4",
+			"5": "parte 5",
+			"6": "parte 6",
+		}
 	},
 	{
 		"id": 2,
-		"title": "Multa"
+		"title": "Multa",
+		"template": {
+			"1": "parte 1",
+			"2": "parte 2",
+		}
 	}]
 }
