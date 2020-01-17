@@ -1,5 +1,68 @@
 {
+    "info": "",
     "models": [
+        {
+            "mapSection": {
+                "0": {
+                    "dataDocumento": "15/01/2020",
+                    "numeroPagamento": "5896523",
+                    "denominazione": "Almaviva s.p.a",
+                    "indirizzo": "Centro Direzionale",
+                    "comune": "Napoli",
+                    "provincia": "NA",
+                    "cap": "80040",
+                    "codiceFiscale": "TRANFHSIOE84MDO",
+                    "codiceContribuente": "654321"
+                },
+                "1": {
+                    "codiceAvvisoIUV": "1234",
+                    "tassaRifiuti": "122",
+                    "addizionale": "1",
+                    "creditoCompensazione": "111",
+                    "sottrattoDovutoImporto": "11111",
+                    "sottrattoDovutoDescrizione": "boh",
+                    "arrotondamento": "10",
+                    "spese": "1234",
+                    "debitoResiduo": "100",
+                    "dataScadenzaPrimaRata": "",
+                    "codiceAvvisoIUVPrimaRata": "",
+                    "dataScadenzaSecondaRata": "",
+                    "codiceAvvisoIUVSecondaRata": "",
+                    "dataScadenzaRata": "17/12/2020",
+                    "dettaglioImmobili": [
+                        {
+                            "ubicazioneImmobile": "Napoli",
+                            "tipologiaUtenza": "User",
+                            "particella": 123,
+                            "utenza": "A",
+                            "superficie": "25",
+                            "numeroComponenti": 5,
+                            "numeroBimestri": 8,
+                            "riduzioni": 1,
+                            "tariAddizzionale": 10,
+                            "quotaFissa": 6,
+                            "quotaVariabile": 8
+                        },
+                        {
+                            "ubicazioneImmobile": "MIlano",
+                            "tipologiaUtenza": "Admin",
+                            "particella": 123,
+                            "utenza": "A",
+                            "superficie": "25",
+                            "numeroComponenti": 5,
+                            "numeroBimestri": 8,
+                            "riduzioni": 1,
+                            "tariAddizzionale": 10,
+                            "quotaFissa": 6,
+                            "quotaVariabile": 8
+                        }
+                    ]
+                },
+                "2": {
+                    "campo3": "campo3"
+                }
+            }
+        },
         {
             "mapSection": {
                 "0": {
